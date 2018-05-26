@@ -3,6 +3,10 @@ h1 {
   font-size: 50px;
 }
 p {
-  color: white;
+  color: yellow;
   background: black;
+}
+
+h5 {
+  color: blue;
 }
